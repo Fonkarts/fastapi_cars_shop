@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "brand": "Renault",
+    "model": "Clio",
+    "year": 2018,
+    "engine_power": "90 hp",
+    "fuel": "Gasoline",
+    "price": 12000
+  },
+  {
+    "id": 2,
+    "brand": "Peugeot",
+    "model": "308",
+    "year": 2020,
+    "engine_power": "130 hp",
+    "fuel": "Diesel",
+    "price": 24000
+  },
+  {
+    "id": 3,
+    "brand": "BMW",
+    "model": "Serie 3",
+    "year": 2019,
+    "engine_power": "184 hp",
+    "fuel": "Gasoline",
+    "price": 35000
+  },
+  {
+    "id": 4,
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2021,
+    "engine_power": "150 hp",
+    "fuel": "Diesel",
+    "price": 41000
+  },
+  {
+    "id": 5,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "engine_power": "122 hp",
+    "fuel": "Hybride",
+    "price": 26000
+  },
+  {
+    "id": 6,
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": 2017,
+    "engine_power": "150 hp",
+    "fuel": "Gasoline",
+    "price": 17000
+  },
+  {
+    "id": 7,
+    "brand": "Mercedes-Benz",
+    "model": "Classe C",
+    "year": 2022,
+    "engine_power": "204 hp",
+    "fuel": "Diesel",
+    "price": 55000
+  },
+  {
+    "id": 8,
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2019,
+    "engine_power": "125 hp",
+    "fuel": "Gasoline",
+    "price": 18000
+  },
+  {
+    "id": 9,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "engine_power": "325 hp",
+    "fuel": "Électrique",
+    "price": 62000
+  },
+  {
+    "id": 10,
+    "brand": "Ferrari",
+    "model": "488 GTB",
+    "year": 2018,
+    "engine_power": "670 hp",
+    "fuel": "Gasoline",
+    "price": 78000
+  },
+  {
+    "id": 11,
+    "brand": "Fiat",
+    "model": "500",
+    "year": 2016,
+    "engine_power": "69 hp",
+    "fuel": "Gasoline",
+    "price": 9000
+  },
+  {
+    "id": 12,
+    "brand": "Nissan",
+    "model": "Qashqai",
+    "year": 2021,
+    "engine_power": "140 hp",
+    "fuel": "Gasoline",
+    "price": 28000
+  },
+  {
+    "id": 13,
+    "brand": "Citroën",
+    "model": "C3",
+    "year": 2017,
+    "engine_power": "82 hp",
+    "fuel": "Gasoline",
+    "price": 11000
+  },
+  {
+    "id": 14,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "engine_power": "182 hp",
+    "fuel": "Gasoline",
+    "price": 23000
+  },
+  {
+    "id": 15,
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2020,
+    "engine_power": "165 hp",
+    "fuel": "Diesel",
+    "price": 32000
+  },
+  {
+    "id": 16,
+    "brand": "Jeep",
+    "model": "Renegade",
+    "year": 2018,
+    "engine_power": "120 hp",
+    "fuel": "Gasoline",
+    "price": 22000
+  },
+  {
+    "id": 17,
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2021,
+    "engine_power": "150 hp",
+    "fuel": "Hybride",
+    "price": 35000
+  },
+  {
+    "id": 18,
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2020,
+    "engine_power": "136 hp",
+    "fuel": "Diesel",
+    "price": 29000
+  },
+  {
+    "id": 19,
+    "brand": "Alfa Romeo",
+    "model": "Giulia",
+    "year": 2021,
+    "engine_power": "280 hp",
+    "fuel": "Gasoline",
+    "price": 48000
+  },
+  {
+    "id": 20,
+    "brand": "Volvo",
+    "model": "XC60",
+    "year": 2020,
+    "engine_power": "250 hp",
+    "fuel": "Hybride",
+    "price": 54000
+  },
+  {
+    "id": 21,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "year": 2019,
+    "engine_power": "115 hp",
+    "fuel": "Diesel",
+    "price": 18000
+  },
+  {
+    "id": 22,
+    "brand": "Subaru",
+    "model": "Impreza",
+    "year": 2018,
+    "engine_power": "152 hp",
+    "fuel": "Gasoline",
+    "price": 20000
+  },
+  {
+    "id": 23,
+    "brand": "Jaguar",
+    "model": "F-Pace",
+    "year": 2021,
+    "engine_power": "300 hp",
+    "fuel": "Diesel",
+    "price": 62000
+  },
+  {
+    "id": 24,
+    "brand": "Mitsubishi",
+    "model": "Outlander",
+    "year": 2020,
+    "engine_power": "135 hp",
+    "fuel": "Hybride",
+    "price": 37000
+  },
+  {
+    "id": 25,
+    "brand": "Lexus",
+    "model": "NX 300h",
+    "year": 2021,
+    "engine_power": "197 hp",
+    "fuel": "Hybride",
+    "price": 57000
+  },
+  {
+    "id": 26,
+    "brand": "Porsche",
+    "model": "Macan",
+    "year": 2019,
+    "engine_power": "245 hp",
+    "fuel": "Gasoline",
+    "price": 74000
+  },
+  {
+    "id": 27,
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "year": 2018,
+    "engine_power": "455 hp",
+    "fuel": "Gasoline",
+    "price": 43000
+  },
+  {
+    "id": 28,
+    "brand": "Land Rover",
+    "model": "Defender",
+    "year": 2022,
+    "engine_power": "300 hp",
+    "fuel": "Diesel",
+    "price": 76000
+  },
+  {
+    "id": 29,
+    "brand": "Seat",
+    "model": "Leon",
+    "year": 2020,
+    "engine_power": "130 hp",
+    "fuel": "Gasoline",
+    "price": 20000
+  },
+  {
+    "id": 30,
+    "brand": "Dacia",
+    "model": "Duster",
+    "year": 2021,
+    "engine_power": "115 hp",
+    "fuel": "Gasoline",
+    "price": 16000
+  },
+  {
+    "id": 31,
+    "brand": "Mini",
+    "model": "Cooper",
+    "year": 2019,
+    "engine_power": "136 hp",
+    "fuel": "Gasoline",
+    "price": 22000
+  },
+  {
+    "id": 32,
+    "brand": "Opel",
+    "model": "Astra",
+    "year": 2018,
+    "engine_power": "110 hp",
+    "fuel": "Diesel",
+    "price": 15000
+  },
+  {
+    "id": 33,
+    "brand": "Suzuki",
+    "model": "Vitara",
+    "year": 2020,
+    "engine_power": "140 hp",
+    "fuel": "Hybride",
+    "price": 28000
+  },
+  {
+    "id": 34,
+    "brand": "Tesla",
+    "model": "Model S",
+    "year": 2021,
+    "engine_power": "670 hp",
+    "fuel": "Électrique",
+    "price": 78000
+  },
+  {
+    "id": 35,
+    "brand": "Toyota",
+    "model": "Yaris",
+    "year": 2020,
+    "engine_power": "116 hp",
+    "fuel": "Hybride",
+    "price": 19000
+  },
+  {
+    "id": 36,
+    "brand": "Peugeot",
+    "model": "2008",
+    "year": 2021,
+    "engine_power": "155 hp",
+    "fuel": "Gasoline",
+    "price": 26000
+  }
+]
