@@ -1,1 +1,3 @@
-# fastapi_cars_shop
+# A  Fast API/React car shop
+
+Details coming soon
